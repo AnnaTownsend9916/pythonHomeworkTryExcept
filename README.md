@@ -1,1 +1,1 @@
-Python Homework assignment that uses previous variables and uses try and except keywords
+I am working on relearning python and have been following a python Course from a professor at the Univeristy of Michigan. This is the python homework assignment working with the try and except to test and handle errors. I also used my first python if else statement using my variables.
